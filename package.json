@@ -1,0 +1,22 @@
+{
+  "name": "NPM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "copyfs <copyfs@tutamail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.15.0",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "date-fns": "^2.17.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^7.20.0"
+  }
+}
